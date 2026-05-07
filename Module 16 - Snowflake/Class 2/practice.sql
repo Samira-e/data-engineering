@@ -55,3 +55,5 @@ ORDER BY LAST_LOAD_TIME
 -- test for branching
 SELECT * FROM CUSTOMERS_RAW
 
+------Test Branching from snowflake
+
