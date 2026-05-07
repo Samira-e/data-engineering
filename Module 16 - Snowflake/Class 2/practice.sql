@@ -56,4 +56,5 @@ ORDER BY LAST_LOAD_TIME
 SELECT * FROM CUSTOMERS_RAW
 
 ------Test Branching from snowflake
+-- Test two
 
